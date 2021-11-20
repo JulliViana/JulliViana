@@ -1,7 +1,7 @@
 ## Olá 👋, Sou Juliana Viana !  
   
 
-<a href="https://github.com/JulliViana" target="_blank">
+<a href="https://github.com/JulliViana/Insights-Project" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/juliana-de-lima-viana" target="_blank">
