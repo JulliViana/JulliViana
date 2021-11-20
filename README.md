@@ -1,4 +1,4 @@
-## Hey 👋, I'm Juliana Viana !  
+## Olá 👋, Sou Juliana Viana !  
   
 
 <a href="https://github.com/JulliViana" target="_blank">
@@ -11,29 +11,21 @@
 
 
 
-### Glad to see you here!  
-I’m a student and data science
-
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
 
 <br/>  
 
 
-## Rapidfire  
+## Sobre mim  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 Sou formada em Engenharia de Produção e Tecnologia da Informação.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 Atualmente atuando como Analista de Negócios, com experiência em Gestão de Projetos.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Sou uma entusiasta em dados e atualmente estudando Ciência de Dados.
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td><td valign="top" width="50%">
@@ -48,7 +40,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Languages and Tools  
+## Ferramentas e Tecnologias  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
