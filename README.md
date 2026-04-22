@@ -21,7 +21,7 @@
 - 🔭 Sou formada em Engenharia de Produção e Tecnologia da Informação.
   
 
-- 🌱 Atualmente atuando como Analista de Negócios, com experiência em Gestão de Projetos.
+- 🌱 Atualmente atuando como Data Engineering, no ramo de saúde.
   
 
 - ❓ Sou uma entusiasta em dados e atualmente estudando Ciência de Dados.
