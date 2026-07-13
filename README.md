@@ -1,28 +1,16 @@
 ## Olá 👋, Sou Juliana Viana !  
   
-
-<a href="https://github.com/JulliViana/Insights-Project" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/juliana-de-lima-viana" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-
 <br/>  
 
-
 ## Sobre mim  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 Sou formada em Engenharia de Produção e Tecnologia da Informação.
+
+- 🔭 Sou formada em Engenharia de Produção e Tecnologia da Informação, com especialização em Engenharia de Dados.
   
-
 - 🌱 Atualmente atuando como Data Engineering, no ramo de saúde.
-  
 
 - ❓ Sou uma entusiasta em dados e atualmente estudando Ciência de Dados.
   
